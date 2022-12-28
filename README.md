@@ -1,6 +1,6 @@
 # 02 Advanced CSS: Portfolio
 
-![link](https://clayandemar.github.io/portfolio/)
+[link to project](https://clayandemar.github.io/portfolio/)
 ![screenshot](https://github.com/clayandemar/portfolio/blob/main/images/screenshot.png)
 
 ## My Task
